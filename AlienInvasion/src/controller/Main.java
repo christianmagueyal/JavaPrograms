@@ -18,7 +18,7 @@ public class Main {
         gameData = new GameData();
         gamePanel = new GamePanel();
         JFrame game = new MainWindow();
-        game.setTitle("Term_Project_Christian_M");
+        game.setTitle("Alien Invasion");
         game.setSize(WIN_WIDTH, WIN_HEIGHT);
         game.setLocation(100, 0);
         game.setResizable(false);
